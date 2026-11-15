@@ -20,6 +20,9 @@ dist/
 !.env.example
 token.txt
 *.token
+*.md
+!CHANGELOG.md
+!README.md
 
 # macOS
 .DS_Store
