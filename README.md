@@ -182,6 +182,6 @@ For the initial release, `src/notfound_page/__init__.py` declares `__version__ =
 
 ## License and contact
 
-MIT License — Copyright (c) 2026 Hua Chen. See [LICENSE](LICENSE).
+MIT License — Copyright (c) 2026 Hua Chen. See the [LICENSE](https://github.com/huachenlihx/django-notfound-page-fdg/blob/main/LICENSE) file.
 
 Email: `huachenlihx@gmail.com`
