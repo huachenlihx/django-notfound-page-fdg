@@ -1,0 +1,6 @@
+include README.md
+include LICENSE
+include CHANGELOG.md
+recursive-include src/notfound_page/templates *.html
+recursive-include src/notfound_page *.py
+recursive-include tests *.py
